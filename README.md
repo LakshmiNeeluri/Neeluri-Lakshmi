@@ -17,4 +17,4 @@ I did my internship on Full stack web development there i had done some of the p
 Skills
 Python,Basics of web development,sql,Basics of react,Basics of Java,c.
 Social
-github.com/LakshmiNeeluri.
+https://github.com/LakshmiNeeluri/Neeluri-Lakshmi.git.
