@@ -14,7 +14,7 @@ How to reach me
 neelurilakshmi2003@gmail.com.
 Know about my experiences
 I did my internship on Full stack web development there i had done some of the projects like Portfolio,Netflix,Starbucks,Enhaced Keyboard.
-Skills
+Technical Skills
 Python,Basics of web development,sql,Basics of react,Basics of Java,c.
 Social
 https://github.com/LakshmiNeeluri/Neeluri-Lakshmi.git.
